@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="App.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectMgr.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceMgr.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneDirector.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="SceneMain.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="Player2.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>C</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>A</Filter>
+    </ClInclude>
+    <ClInclude Include="Player3.h">
+      <Filter>B</Filter>
+    </ClInclude>
+    <ClInclude Include="RankMgr.h">
+      <Filter>B</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectMgr.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceMgr.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneDirector.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="Player2.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>C</Filter>
+    </ClCompile>
+    <ClCompile Include="Test8.cpp" />
+    <ClCompile Include="Camera.cpp">
+      <Filter>A</Filter>
+    </ClCompile>
+    <ClCompile Include="Player3.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+    <ClCompile Include="RankMgr.cpp">
+      <Filter>B</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="A">
+      <UniqueIdentifier>{fbcba2e4-7dfe-4885-8dcb-b1b9dba43811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B">
+      <UniqueIdentifier>{6938011d-8420-4886-aa7a-7157077169af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C">
+      <UniqueIdentifier>{41641c0c-90bd-4977-ae24-fdaae9d64b59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
